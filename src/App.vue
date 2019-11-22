@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <tempcom></tempcom>
+    <router-view></router-view>
   </div>
 </template>
 
