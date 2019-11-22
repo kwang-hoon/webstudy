@@ -2,8 +2,11 @@
 
 > A Vue.js project
 
+```bash
 > vue.js study #1 : Vue 환경 설치 및 기본적인 구조
+
 > vue.js study #2 : Component, Vue-Router 학습
+```
 
 ## Build Setup
 
